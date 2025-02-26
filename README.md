@@ -2,4 +2,4 @@
 
 Website for todash.space using github pages.
 
-Using the wonderful [cayman theme](https://github.com/pages-themes/cayman/tree/master).
+Using the wonderful [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
