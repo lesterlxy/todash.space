@@ -1,26 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-include-cache
+- jekyll-remote-theme
 
-minimal_mistakes_skin: "dark"
-locale: "en-US"
 title: "todash space"
-subtitle: "the void that exists between worlds"
-name: "Lester L"
-description: "just a placeholder for my email domain"
-url: "https://todash.space"
-repository: "lesterlxy/todash.space"
-masthead_title: "todash space"
-author:
-  name: "Lester L"
-  avatar: "/assets/images/avatar.png"
-  bio: "Engineer"
-  location: "Singapore"
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lesterlxy"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/wolretsel"
+description: "the void that exists between worlds"
+github: false
+show_downloads: false
