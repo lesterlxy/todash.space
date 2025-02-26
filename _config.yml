@@ -4,3 +4,4 @@ plugins:
 
 title: todash space
 description: the void that exists between worlds
+show_downloads: false
