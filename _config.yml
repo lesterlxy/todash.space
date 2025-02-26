@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
-- jekyll-include-cache
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
 locale: "en-US"
@@ -12,7 +12,15 @@ url: "https://todash.space"
 repository: "lesterlxy/todash.space"
 masthead_title: "todash space"
 author:
-  name     : "Lester L"
-  avatar   : "/assets/images/avatar.png"
-  bio      : "placeholder"
-  location : "Singapore"
+  name: "Lester L"
+  avatar: "/assets/images/avatar.png"
+  bio: "Engineer"
+  location: "Singapore"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lesterlxy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/wolretsel"
