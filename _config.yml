@@ -1,8 +1,11 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
-- jekyll-remote-theme
+- jekyll-include-cache
 
-title: todash space
-description: the void that exists between worlds
-github: false
-show_downloads: false
+minimal_mistakes_skin: "dark"
+locale: "en-US"
+title: "todash space"
+subtitle: "the void that exists between worlds"
+name: "Lester L"
+description: "just a placeholder for my email domain"
+url: "https://todash.space"
