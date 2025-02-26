@@ -11,3 +11,8 @@ description: "just a placeholder for my email domain"
 url: "https://todash.space"
 repository: "lesterlxy/todash.space"
 masthead_title: "todash space"
+author:
+  name     : "Lester L"
+  avatar   : "/assets/images/avatar.png"
+  bio      : "placeholder"
+  location : "Singapore"
