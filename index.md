@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![avatar](assets/images/avatar.png)
+Hello and welcome to my website. It will be updated soon with more information.
 
-This website is a placeholder for my email domain.
+![avatar](assets/images/avatar.png)
