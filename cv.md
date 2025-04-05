@@ -38,7 +38,7 @@ description: Updated 2025-04-05
 
 - Implemented memory management algorithms in C.
 - Collaborated with IC engineers to integrate software solutions. 
-- Dismissed due to unforseen circumstances (car accident) and startup's operational needs.
+- Dismissed due to unforeseen circumstances (car accident) and startup's operational needs.
 
 ### ST Engineering (March 2020 - May 2022)
 
@@ -57,7 +57,7 @@ description: Updated 2025-04-05
 
 *Research Intern @ Sustainable Transport Safety Lab*
 
-- Strengthened the collection process for a traffic safety study, executing data gathering with anhanced accuracy and efficiency.
+- Strengthened the collection process for a traffic safety study, executing data gathering with enhanced accuracy and efficiency.
 - Authored the literature review section and foundational groundwork for a highly competitive and successful grant application.
 
 ## Skills
@@ -65,7 +65,7 @@ description: Updated 2025-04-05
 - Programming Languages
     - Python
     - C (mostly for STM32 and AVR microcontrollers)
-    - Labview (includes LVOOP and responsive UI design)
+    - LabVIEW (includes LVOOP and responsive UI design)
     - C# (mostly WinForms)
     - C++
 - General knowledge of linux-based systems
