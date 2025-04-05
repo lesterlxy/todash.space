@@ -1,5 +1,6 @@
 ---
 title: Curriculum Vitae
+description: Updated 2025-04-05
 ---
 
 # Lester Low
