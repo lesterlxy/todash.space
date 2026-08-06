@@ -1,0 +1,13 @@
+---
+---
+
+@import url('https://cdn.jsdelivr.net/npm/@fontsource/maple-mono/index.css');
+@import "jekyll-theme-minimal";
+
+body {
+  font-family: 'Maple Mono', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+code, pre {
+  font-family: 'Maple Mono', Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', 'Courier New', monospace;
+}
